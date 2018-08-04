@@ -23,3 +23,4 @@ Welcome to Robox documentation!
    :numbered:
 
    chapters/Appendices/External_editors
+   chapters/Appendices/Version_Control
