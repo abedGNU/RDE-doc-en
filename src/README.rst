@@ -18,6 +18,4 @@ Documentation
 -------------
 
 This documentation will show the use of Robox_ follwing products:
-  - AgvManager : Agv dispatcher
-  - RAT : Agv map builder
   - RDE : Robox Development Environment

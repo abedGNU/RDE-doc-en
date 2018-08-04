@@ -1,8 +1,6 @@
-Migration from Latex in progress
-================================
+Robox RDE 
+==========
 
-Refer to the latex version for the complete documentaion
+https://roboxmotion.github.io/RDE-doc-en/
 
-https://abedgnu.github.io/Robox-Notes
 
-https://github.com/RoboxMotion/AGV-doc-en
